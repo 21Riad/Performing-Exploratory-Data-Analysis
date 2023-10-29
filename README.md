@@ -2,7 +2,9 @@
 Exploratory Data Analysis (EDA) is a crucial initial step in the data analysis process, used to examine and understand the characteristics of a dataset.
 
 
-![text1](images/EDA.PNG)
+<div style="text-align:center">
+    <img src="images/EDA.PNG" alt="Image Description" />
+</div>
 
 ## Overview 
 
